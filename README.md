@@ -31,8 +31,12 @@ This project simulates nutrient mist absorption in aeroponic root systems using 
 3. Run all cells and visualize plots
 
 ## 🙏 Credits
-Built by [Your Name] using AI assistance for job portfolio in Data Science & AI.
+Built by Roshan sah , using AI assistance for job portfolio in Data Science & AI.
 
 ---
 
-**GitHub Repo**: [Your GitHub repo link here]
+## GitHub Repository
+
+You can view and clone the full project here:
+
+[https://github.com/roshanData/aeroponic-simulator-ai](https://github.com/roshanData/aeroponic-simulator-ai)
